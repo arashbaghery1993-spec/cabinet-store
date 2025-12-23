@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pvc1",
+    "name": "درب PVC ساده",
+    "category": "PVC",
+    "price": 1800000,
+    "description": "درب PVC ساده و با کیفیت، مناسب برای منزل و دفاتر.",
+    "image": "assets/door1.jpg",
+    "dimensions": "200x80 cm"
+  },
+  {
+    "id": "pvc2",
+    "name": "درب PVC کلاسیک",
+    "category": "PVC",
+    "price": 2500000,
+    "description": "درب PVC کلاسیک با طرح شیک و مقاوم.",
+    "image": "assets/door2.jpg",
+    "dimensions": "210x90 cm"
+  },
+  {
+    "id": "mdf1",
+    "name": "کابینت MDF ساده",
+    "category": "MDF",
+    "price": 2200000,
+    "description": "کابینت MDF با روکش عالی و دوام بالا.",
+    "image": "assets/cabinet1.jpg",
+    "dimensions": "180x60 cm"
+  },
+  {
+    "id": "mdf2",
+    "name": "کابینت MDF مدرن",
+    "category": "MDF",
+    "price": 3500000,
+    "description": "کابینت MDF با طراحی مدرن و جذاب برای آشپزخانه.",
+    "image": "assets/cabinet2.jpg",
+    "dimensions": "200x70 cm"
+  }
+]
